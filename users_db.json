@@ -1,0 +1,76 @@
+{
+    "574393629": {
+        "role": "dev",
+        "osn_photo_count": 13,
+        "osn_text_count": 4,
+        "total_messages": 238,
+        "last_message": "2026-05-08 06:38:31 | command",
+        "stats": {
+            "command": 137,
+            "last_activity": "2026-05-08 06:38:31",
+            "osn_photo": 10,
+            "osn_text": 3
+        }
+    },
+    "672052315": {
+        "role": "user",
+        "osn_photo_count": 0,
+        "osn_text_count": 0,
+        "total_messages": 0,
+        "last_message": "2026-04-19 10:37:16 | message"
+    },
+    "-232598001": {
+        "role": "user",
+        "osn_photo_count": 0,
+        "osn_text_count": 0,
+        "total_messages": 0,
+        "last_message": "2026-04-19 09:41:49 | message"
+    },
+    "738733496": {
+        "role": "user",
+        "osn_photo_count": 0,
+        "osn_text_count": 0,
+        "total_messages": 0,
+        "last_message": "2026-04-19 10:34:14 | message"
+    },
+    "888274461": {
+        "role": "user",
+        "osn_photo_count": 0,
+        "osn_text_count": 0,
+        "total_messages": 0,
+        "last_message": "2026-04-19 13:12:52 | message"
+    },
+    "1039110251": {
+        "role": "user",
+        "osn_photo_count": 0,
+        "osn_text_count": 0,
+        "total_messages": 0,
+        "last_message": "2026-04-19 13:13:14 | message"
+    },
+    "1094157988": {
+        "role": "dev",
+        "osn_photo_count": 14,
+        "osn_text_count": 6,
+        "total_messages": 256,
+        "last_message": "2026-05-08 14:58:03 | command",
+        "stats": {
+            "command": 155,
+            "last_activity": "2026-05-08 14:58:03",
+            "osn_photo": 11,
+            "osn_text": 5
+        }
+    },
+    "1029926388": {
+        "role": "dev",
+        "osn_photo_count": 0,
+        "osn_text_count": 0,
+        "total_messages": 1,
+        "last_message": "2026-05-08 13:31:29 | command",
+        "stats": {
+            "command": 1,
+            "last_activity": "2026-05-08 13:31:29",
+            "osn_photo": 0,
+            "osn_text": 0
+        }
+    }
+}
